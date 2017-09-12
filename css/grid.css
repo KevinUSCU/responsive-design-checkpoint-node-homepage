@@ -1,6 +1,6 @@
 /*-- 12-row grid system --*/
 .grid-container {
-  width: 80%;
+  width: 75%;
   margin: auto;
 }
 
@@ -63,6 +63,7 @@
   .col-12 { width: 100% }
 }
 
+/*-- optional modifiers for columns --*/
 .no-pad {
   padding: 0;
 }
