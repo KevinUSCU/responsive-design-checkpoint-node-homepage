@@ -64,10 +64,27 @@ a:hover {
 
 .nav table {
   max-width: 90%;
+  margin: auto;
 }
 
 .nav td {
   color: #FFF;
+  padding: 0 10px;
+  font-size: .65rem;
+  border-right: 1px solid #FFF;
+}
+
+.nav td.last {
+  border: none;
+}
+
+.nav a {
+  color: #FFF;
+}
+
+.nav a:hover {
+  background-color: #333;
+  text-decoration: underline;
 }
 
 .splash {
@@ -86,4 +103,8 @@ a:hover {
 .splash img:hover {
   background-color: #026E00;
   border: 20px solid #026E00;
+}
+
+main {
+  text-align: center;
 }
