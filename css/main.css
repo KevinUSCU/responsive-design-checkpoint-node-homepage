@@ -1,5 +1,6 @@
 * {
   box-sizing: border-box;
+  color: #333;
 }
 
 html {
@@ -44,4 +45,39 @@ h5 {
 
 .green-txt {
   color: #026E00;
+}
+
+.nav {
+  text-align: center;
+}
+
+.nav img {
+  max-height: 75px;
+  max-width: 180px;
+}
+
+.nav table {
+  max-width: 90%;
+}
+
+.nav td {
+  color: #FFF;
+}
+
+.splash {
+  background-image: url("../images/background.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  max-height: 280px;
+  text-align: center;
+}
+
+.splash img {
+  max-width: 100%;
+  border: 20px solid rgba(0, 0, 0, 0);
+}
+
+.splash img:hover {
+  background-color: #026E00;
+  border: 20px solid #026E00;
 }

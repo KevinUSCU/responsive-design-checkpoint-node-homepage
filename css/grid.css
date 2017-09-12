@@ -62,3 +62,7 @@
   .col-11 { width: 91.66% }
   .col-12 { width: 100% }
 }
+
+.no-pad {
+  padding: 0;
+}
