@@ -26,3 +26,22 @@ h5 {
  font-size: 1.2rem; 
 }
 
+.gray-bkg {
+  background-color: #333333;
+}
+
+.green-bkg {
+  background-color: #026E00;
+}
+
+.lt-green-bkg {
+  background-color: #EAF5E9;
+}
+
+.white-bkg {
+  background-color: #FFFFFF;
+}
+
+.green-txt {
+  color: #026E00;
+}
